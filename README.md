@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 * 🎓 Student who loves building real-world projects
-* 💻 Focused on **React, C#, SQL Server**
+* 💻 Focused on **React, Php, Laravel, SQL Server, Vue.js**
 * 📱 Interested in **Web + Mobile Development**
 * 🎮 Gaming + 📸 Photography
 
