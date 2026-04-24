@@ -1,103 +1,90 @@
-<h1 align="center">Hi 👋, I'm Thant Zaw</h1>
+# 👋 Hi, I'm Thant Zaw
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Student+Developer;React+%7C+C%23+%7C+SQL+Server;Building+Cool+Projects;Always+Learning+New+Things;Future+Full+Stack+Developer" />
-</p>
+<div align="center">
+
+🚀 **Full-Stack Developer (PHP / Laravel / Vue / React / .NET)**
+⚡ Building scalable web apps & modern UI systems
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-* 🎓 Student who loves building real-world projects
-* 💻 Focused on **React, Php, Laravel, SQL Server, Vue.js**
-* 📱 Interested in **Web + Mobile Development**
-* 🎮 Gaming + 📸 Photography
+* 💻 Focused on **full-stack development**
+* ⚙️ Strong in backend architecture & API design
+* 🎯 Interested in building **real-world, production-ready systems**
+* 📦 Love working with containers & modern workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### 🔹 Backend
 
-<img src="https://skillicons.dev/icons?i=cs,js,php,react,html,css,git,vercel" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet)
 
-</p>
+### 🔹 Frontend
+
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+
+### 🔹 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+### 🔹 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThantZaw21&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThantZaw21&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThantZaw21&theme=tokyonight&hide_border=true"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThantZaw21/ThantZaw21/output/github-contribution-grid-snake.svg" />
-</p>
+</div>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 What I Build
 
-<p align="center">
-  <a href="https://github.com/ThantZaw21">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThantZaw21&repo=UpgradedTimeTb&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-* ⚛️ Advanced React
-* 🌐 Backend Development
-* 🧠 System Design
+* 🏗️ REST APIs with Laravel / .NET
+* ⚡ Dynamic frontends with Vue & React
+* 🗄️ Database-driven systems (MySQL)
+* 🐳 Containerized apps using Docker
 
 ---
 
-## 🎧 Coding Vibes (Optional Spotify)
+## 📚 Currently Improving
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ThantZaw21">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+* 🔹 System Design & Scalability
+* 🔹 Clean Architecture
+* 🔹 Advanced Laravel & .NET
 
 ---
 
-## ⚡ Fun Fact
+## 🌐 Connect With Me
 
-<p align="center">
-💻 Code + 🎮 Gaming + ☕ Coffee = Perfect Day 😄
-</p>
+<div align="center">
 
----
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge\&logo=facebook)](#)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](#)
 
-## 👀 Profile Views Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThantZaw21&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<div align="center">
+
+💡 *“Build real systems, not just projects.”*
+
+</div>
